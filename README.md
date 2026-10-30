@@ -1,6 +1,6 @@
 # Medical negligence of doctors and hospitals in the Supreme Court of India, 2021 to 2026
 
-## Teamm
+## Team
 
 Team name: Duty of Care
 
