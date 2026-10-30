@@ -45,3 +45,5 @@ Twenty judgments found by web search are not a complete list of the Court's medi
 ## AI-use disclosure
 
 We used Claude, an AI assistant made by Anthropic, to convert citations to Supreme Court citations, add two judgments (P.N. Gupta and D.C. Malviya), check dates, benches and case numbers, group the judgments, draw the charts, build the web page and draft this README. Its facts were cross-checked against law-report and news sites. We have not yet compared every entry with the official Supreme Court copy, so entries without a sci.gov.in link in the Source column are the least verified and should be treated as unconfirmed.
+
+This project is published using GitHub Pages.
