@@ -1,0 +1,1 @@
+# Medical-negligence-of-doctors-and-hospitals-in-the-Supreme-Court-of-India
